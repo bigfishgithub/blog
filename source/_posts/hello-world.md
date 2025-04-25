@@ -1,8 +1,8 @@
 ## asd
 ```php
 
-<?php
 
+<?php
 namespace app\service;
 
 use app\admin\model\article\ContentRule;
